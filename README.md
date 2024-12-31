@@ -17,7 +17,7 @@ Key fields:
 - Retention Strategies: Suggesting data-driven interventions to improve retention.
 - Compensation Equity: Exploring the relationship between pay and turnover.
 
-### 2. Define the Business Problem
+## 2. Define the Business Problem
 
 ### Key Business Question:
 
@@ -65,7 +65,7 @@ Findings from the analysis were framed to support decision-making on retention s
 
 ### 1. Turnover Rate by Department
 
-(![alt text](image.png))
+![alt text](visualizations/turnover_dpt.png)
 
 **Findings:**
 
@@ -80,7 +80,7 @@ Findings from the analysis were framed to support decision-making on retention s
 
 ### 2. Satisfaction vs. Turnover
 
-![alt text](image-2.png)
+![alt text](visualizations/satisfaction_turnover.png)
 
 **Findings:**
 
@@ -93,7 +93,7 @@ As expected, employees with higher satisfaction scores (4 and 5) are more likely
 
 ### 3. Salary Distribution by Turnover
 
-![alt text](image-3.png)
+![alt text](visualizations/salary_turnover.png)
 
 **Findings:**
 
@@ -108,7 +108,7 @@ As expected, employees with higher satisfaction scores (4 and 5) are more likely
 
 ### 4. Tenure Distribution by Turnover
 
-![alt text](image-4.png)
+![alt text](visualizations/tenure_turnover.png)
 
 **Findings:**
 
@@ -150,37 +150,37 @@ Conduct regular satisfaction surveys and track tenure-related trends to anticipa
 
 **Code and Analysis:**
 
-A fully documented Jupyter Notebook covering data cleaning, analysis, and visualizations.
+- A fully documented Jupyter Notebook covering data cleaning, analysis, and visualizations.
 
 **Visualizations:**
 
-Key insights visualized using Python, saved as PNGs for easy inclusion in presentations or reports.
+- Key insights visualized using Python, saved as PNGs for easy inclusion in presentations or reports.
 
 **Dataset:**
 
-Raw and cleaned dataset files.
+- Raw and cleaned dataset files.
 
 **Report:**
 
-This README serves as a summary of the project, including methodology, findings, and recommendations.
+- This README serves as a summary of the project, including methodology, findings, and recommendations.
 
 ## How to Use
 
 1. Clone the Repository:
 
-git clone <repository_url>
+- git clone <repository_url>
 
 2. Open the Jupyter Notebook:
 
-Follow the step-by-step code to reproduce the analysis.
+- Follow the step-by-step code to reproduce the analysis.
 
 3. Explore Visualizations:
 
-Check the Visualizations/ folder for PNG files of all insights.
+- Check the `Visualizations` folder for PNG files of all insights.
 
 4. Examine the Data:
 
-Use cleaned_hr_data.csv for your own analysis.
+- Use `cleaned_hr_data.csv` for your own analysis.
 
 ## Technologies Used
 
