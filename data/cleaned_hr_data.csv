@@ -1,0 +1,312 @@
+EmpID,Sex,RaceDesc,MaritalDesc,Salary,TenureYears,Department,PerformanceScore,EmpSatisfaction,Turnover
+10026,M ,White,Single,62506,13.5,Production       ,Exceeds,5,0
+10084,M ,White,Married,104437,1.22,IT/IS,Fully Meets,3,1
+10196,F,White,Married,64955,1.22,Production       ,Fully Meets,3,1
+10088,F,White,Married,64991,16.99,Production       ,Fully Meets,5,0
+10069,F,White,Divorced,50825,5.16,Production       ,Fully Meets,4,1
+10002,F,White,Single,57568,12.99,Production       ,Exceeds,5,0
+10194,F,White,Single,95660,10.15,Software Engineering,Fully Meets,3,0
+10062,M ,White,Widowed,59365,11.26,Production       ,Fully Meets,4,0
+10114,F,Black or African American,Single,47837,15.5,Production       ,Fully Meets,3,0
+10250,M ,White,Divorced,50178,9.99,IT/IS,Fully Meets,5,0
+10252,F,Black or African American,Married,54670,6.01,Production       ,Fully Meets,4,1
+10242,M ,Black or African American,Married,47211,4.47,Production       ,Fully Meets,3,1
+10012,M ,Black or African American,Divorced,92328,10.15,IT/IS,Exceeds,4,0
+10265,M ,Two or more races,Single,58709,12.87,Production       ,Fully Meets,4,0
+10066,M ,White,Divorced,52505,4.53,Production       ,Fully Meets,5,1
+10061,M ,White,Single,57834,6.45,Production       ,Fully Meets,4,1
+10023,F,White,Married,70131,8.45,Production       ,Exceeds,3,0
+10055,F,White,Single,59026,13.75,Production       ,Fully Meets,5,0
+10245,F,White,Single,110000,1.18,IT/IS,Fully Meets,4,1
+10277,M ,Asian,Single,53250,11.49,Production       ,Fully Meets,4,0
+10046,M ,White,Single,51044,12.76,Production       ,Fully Meets,3,0
+10226,F,Asian,Divorced,64919,11.38,Production       ,Fully Meets,3,0
+10003,F,White,Married,62910,10.49,Production       ,Exceeds,3,0
+10294,F,White,Single,66441,13.75,Production       ,Needs Improvement,3,0
+10267,F,White,Single,57815,3.23,Production       ,Fully Meets,5,1
+10199,M ,Black or African American,Single,103613,2.01,IT/IS,Fully Meets,5,1
+10081,F,Black or African American,Married,106367,9.88,Admin Offices,Fully Meets,4,0
+10175,M ,Asian,Single,74312,0.85,Production       ,Fully Meets,3,1
+10177,F,White,Married,53492,1.2,Production       ,Fully Meets,4,1
+10238,F,Black or African American,Married,63000,16.19,Admin Offices,Fully Meets,2,0
+10184,M ,White,Single,65288,10.26,Production       ,Fully Meets,3,0
+10203,F,Black or African American,Separated,64375,11.15,Production       ,Fully Meets,5,0
+10188,F,Black or African American,Married,74326,2.97,Sales,Fully Meets,5,1
+10107,F,Black or African American,Single,63763,12.83,Production       ,Fully Meets,4,0
+10181,M ,White,Married,62162,13.75,Production       ,Fully Meets,5,0
+10150,M ,White,Single,77692,13.39,Software Engineering,Fully Meets,3,0
+10001,M ,White,Single,72640,8.93,Production       ,Exceeds,3,0
+10085,F,White,Single,93396,11.15,Software Engineering,Fully Meets,4,0
+10115,M ,Black or African American,Single,52846,10.76,Production       ,Fully Meets,3,0
+10082,F,Black or African American,Single,100031,8.51,IT/IS,Fully Meets,5,0
+10040,F,White,Single,71860,10.38,Sales,Fully Meets,5,0
+10067,F,White,Single,61656,10.26,Production       ,Fully Meets,4,0
+10108,M ,White,Married,110929,8.32,IT/IS,Fully Meets,5,0
+10210,F,White,Single,54237,10.65,Production       ,Fully Meets,4,0
+10154,M ,White,Single,60380,11.49,Production       ,Fully Meets,5,0
+10200,M ,Black or African American,Single,66808,12.64,Sales,Fully Meets,5,0
+10240,F,White,Single,64786,4.39,Production       ,Fully Meets,4,1
+10168,F,Black or African American,Single,64816,13.25,Production       ,Fully Meets,5,0
+10220,M ,White,Single,68678,12.33,IT/IS,Fully Meets,3,0
+10275,F,White,Married,64066,1.65,Production       ,Fully Meets,5,1
+10269,M ,White,Married,59369,1.07,Production       ,Fully Meets,4,1
+10029,M ,White,Married,50373,8.49,Production       ,Exceeds,4,0
+10261,M ,White,Single,63108,11.49,Production       ,Fully Meets,5,0
+10292,M ,Black or African American,Single,59144,5.21,Production       ,Needs Improvement,3,1
+10282,M ,White,Divorced,68051,14.46,Production       ,Needs Improvement,2,0
+10019,M ,Black or African American,Single,170500,16.0,Production       ,Exceeds,5,0
+10094,F,White,Married,63381,9.99,Production       ,Fully Meets,5,0
+10193,M ,White,Married,83552,9.76,IT/IS,Fully Meets,3,0
+10132,F,White,Single,56149,8.49,Production       ,Fully Meets,5,0
+10083,M ,White,Single,92329,10.15,IT/IS,Fully Meets,3,0
+10099,F,White,Single,65729,10.67,Sales,Fully Meets,4,0
+10212,F,White,Married,85028,10.15,IT/IS,Fully Meets,5,0
+10056,F,White,Married,57583,12.51,Production       ,Fully Meets,3,0
+10143,M ,Two or more races,Single,56294,13.16,Production       ,Fully Meets,4,0
+10311,M ,White,Married,56991,6.48,Production       ,Fully Meets,4,0
+10070,M ,White,Married,55722,5.07,Production       ,Fully Meets,4,1
+10155,F,Black or African American,Single,101199,12.99,Software Engineering,Fully Meets,5,0
+10306,M ,Two or more races,Single,61568,10.26,Sales,PIP,3,0
+10100,F,Black or African American,Separated,58275,4.59,Production       ,Fully Meets,5,1
+10310,M ,White,Married,53189,10.49,Production       ,PIP,2,0
+10197,M ,White,Single,96820,7.88,IT/IS,Fully Meets,5,0
+10276,M ,White,Single,51259,10.65,Production       ,Fully Meets,4,0
+10304,F,White,Single,59231,12.87,Sales,PIP,1,0
+10284,F,Black or African American,Married,61584,11.99,Production       ,Needs Improvement,4,0
+10207,F,White,Single,46335,12.76,Production       ,Fully Meets,5,0
+10133,F,White,Married,70621,9.99,IT/IS,Fully Meets,4,0
+10028,M ,Black or African American,Single,138888,10.99,IT/IS,Exceeds,5,0
+10006,F,White,Single,74241,13.98,Sales,Exceeds,5,0
+10105,F,White,Single,75188,10.29,Production       ,Fully Meets,4,0
+10211,F,White,Married,62514,14.69,Production       ,Fully Meets,3,0
+10064,F,White,Married,60070,6.18,Production       ,Fully Meets,3,1
+10247,M ,White,Single,48888,10.15,Production       ,Fully Meets,5,0
+10235,M ,White,Married,54285,10.76,Production       ,Fully Meets,3,0
+10299,F,White,Separated,56847,10.49,Production       ,PIP,1,0
+10280,M ,White,Single,60340,6.49,Production       ,Needs Improvement,4,1
+10296,F,White,Single,59124,4.02,Production       ,Needs Improvement,3,1
+10290,F,Black or African American,Married,99280,2.1,Software Engineering,Needs Improvement,5,1
+10263,F,Black or African American,Married,71776,10.49,Production       ,Fully Meets,5,0
+10136,F,Black or African American,Single,65902,10.88,Production       ,Fully Meets,4,0
+10189,F,White,Married,57748,4.53,Production       ,Fully Meets,3,1
+10308,M ,White,Married,64057,9.65,Production       ,PIP,5,0
+10309,M ,White,Single,53366,9.76,IT/IS,PIP,3,0
+10049,F,White,Married,58530,12.99,Production       ,Fully Meets,5,0
+10093,M ,White,Single,72609,2.11,Production       ,Fully Meets,5,1
+10163,F,White,Married,55965,1.77,Production       ,Fully Meets,3,1
+10305,M ,White,Married,70187,3.89,Sales,PIP,5,1
+10015,M ,Black or African American,Single,178000,13.72,IT/IS,Exceeds,5,0
+10080,F,White,Married,99351,16.0,Admin Offices,Fully Meets,3,0
+10258,M ,Black or African American,Single,67251,13.33,Sales,Fully Meets,3,0
+10273,F,White,Single,65707,14.68,IT/IS,Fully Meets,4,0
+10111,M ,White,Single,52249,9.76,Production       ,Fully Meets,3,0
+10257,F,Black or African American,Single,53171,13.64,Production       ,Fully Meets,4,0
+10159,F,Black or African American,Married,51337,9.76,Production       ,Fully Meets,3,0
+10122,F,Black or African American,Divorced,51505,5.03,Production       ,Fully Meets,4,1
+10142,F,Black or African American,Widowed,59370,1.16,Sales,Fully Meets,4,1
+10283,M ,Black or African American,Married,54933,3.23,Production       ,Needs Improvement,4,1
+10018,F,Two or more races,Single,57815,10.26,Production       ,Exceeds,4,0
+10255,F,White,Single,61555,9.88,Sales,Fully Meets,5,0
+10246,F,White,Single,114800,0.07,IT/IS,Fully Meets,4,1
+10228,M ,White,Married,74679,9.76,IT/IS,Fully Meets,5,0
+10243,F,White,Single,53018,11.15,Production       ,Fully Meets,5,0
+10031,M ,Black or African American,Divorced,59892,13.48,Production       ,Exceeds,4,0
+10300,M ,Black or African American,Married,68898,1.09,Production       ,PIP,3,1
+10101,F,White,Separated,61242,9.99,IT/IS,Fully Meets,4,0
+10237,F,White,Married,66825,10.65,Production       ,Fully Meets,3,0
+10051,M ,White,Married,48285,12.51,Production       ,Fully Meets,3,0
+10218,F,American Indian or Alaska Native,Separated,66149,11.26,Production       ,Fully Meets,5,0
+10256,F,Asian,Married,49256,11.38,Production       ,Fully Meets,5,0
+10098,M ,White,Divorced,62957,9.59,Production       ,Fully Meets,3,0
+10059,F,White,Divorced,63813,2.89,Production       ,Fully Meets,5,1
+10234,M ,Black or African American,Married,99020,7.7,IT/IS,Fully Meets,5,0
+10109,M ,Two or more races,Single,71707,2.65,Sales,Fully Meets,5,1
+10125,F,White,Married,54828,13.1,Production       ,Fully Meets,4,0
+10074,M ,White,Single,64246,11.15,Production       ,Fully Meets,3,0
+10097,F,White,Single,52177,3.93,Production       ,Fully Meets,4,1
+10007,F,White,Married,62065,10.65,Production       ,Exceeds,4,0
+10129,M ,White,Single,46998,12.39,Production       ,Fully Meets,4,0
+10075,F,White,Single,68099,2.44,Production       ,Fully Meets,3,1
+10167,M ,American Indian or Alaska Native,Married,70545,10.38,Sales,Fully Meets,5,0
+10195,F,White,Married,63478,0.65,Production       ,Fully Meets,5,1
+10112,F,White,Single,97999,9.76,IT/IS,Fully Meets,5,0
+10272,F,White,Married,180000,10.67,Sales,Fully Meets,4,0
+10182,F,Black or African American,Married,49920,0.16,Admin Offices,Fully Meets,3,1
+10248,F,White,Single,55425,12.87,Production       ,Fully Meets,4,0
+10201,F,White,Single,69340,8.58,Production       ,Fully Meets,5,0
+10214,F,White,Separated,64995,9.58,Production       ,Fully Meets,3,0
+10160,F,White,Divorced,68182,2.11,Production       ,Fully Meets,3,1
+10289,M ,Asian,Married,83082,1.59,Production       ,Needs Improvement,2,1
+10139,F,White,Single,51908,11.38,Production       ,Fully Meets,3,0
+10227,F,Black or African American,Single,61242,12.16,Production       ,Fully Meets,3,0
+10236,F,White,Divorced,45069,11.26,Production       ,Fully Meets,5,0
+10009,F,American Indian or Alaska Native,Divorced,60724,13.5,Production       ,Exceeds,4,0
+10060,F,White,Separated,60436,10.99,Production       ,Fully Meets,5,0
+10034,M ,White,Married,46837,6.48,Production       ,Exceeds,4,1
+10156,F,Asian,Married,105700,9.99,IT/IS,Fully Meets,3,0
+10036,F,White,Single,63322,10.49,Production       ,Exceeds,3,0
+10138,F,Black or African American,Married,61154,5.23,Production       ,Fully Meets,4,1
+10244,F,White,Single,68999,2.46,Sales,Fully Meets,5,1
+10192,M ,White,Single,50482,11.26,Production       ,Fully Meets,4,0
+10231,M ,White,Single,65310,11.38,Sales,Fully Meets,5,0
+10089,F,White,Married,250000,12.51,Executive Office,Fully Meets,3,0
+10166,F,White,Married,54005,3.69,Production       ,Fully Meets,5,1
+10170,F,White,Married,45433,2.29,Production       ,Fully Meets,4,1
+10208,M ,Black or African American,Single,46654,10.88,Production       ,Fully Meets,3,0
+10176,M ,Asian,Married,63973,13.98,Production       ,Fully Meets,3,0
+10165,M ,Black or African American,Single,71339,13.83,Sales,Fully Meets,5,0
+10113,M ,White,Married,93206,10.15,IT/IS,Fully Meets,5,0
+10092,M ,White,Married,82758,4.92,Production       ,Fully Meets,4,1
+10106,F,Asian,Divorced,66074,1.23,Production       ,Fully Meets,3,1
+10052,M ,White,Married,46120,12.49,Production       ,Fully Meets,5,0
+10038,M ,Black or African American,Divorced,64520,10.99,Admin Offices,Fully Meets,4,0
+10249,M ,White,Married,61962,1.04,Production       ,Fully Meets,3,1
+10232,F,Asian,Single,81584,8.25,IT/IS,Fully Meets,5,0
+10087,F,Asian,Single,63676,6.9,Production       ,Fully Meets,3,1
+10134,M ,White,Married,93046,8.99,Admin Offices,Fully Meets,4,0
+10251,M ,Asian,Married,64738,12.64,Production       ,Fully Meets,3,0
+10103,M ,Black or African American,Separated,70468,12.68,Sales,Fully Meets,3,0
+10017,F,White,Married,77915,11.26,Production       ,Exceeds,3,0
+10186,F,White,Married,52624,7.23,Production       ,Fully Meets,4,1
+10137,M ,White,Married,63450,11.49,Production       ,Fully Meets,3,0
+10008,F,Black or African American,Single,51777,13.95,IT/IS,Exceeds,4,0
+10096,F,White,Widowed,67237,3.19,Production       ,Fully Meets,4,1
+10035,F,Black or African American,Single,73330,11.38,Production       ,Exceeds,4,0
+10057,F,Black or African American,Married,52057,9.88,Production       ,Fully Meets,3,0
+10004,F,Black or African American,Single,47434,4.02,Production       ,Exceeds,4,1
+10191,M ,White,Widowed,52788,5.01,Production       ,Fully Meets,4,1
+10219,F,White,Single,45395,10.99,Production       ,Fully Meets,4,0
+10077,F,White,Married,62385,8.65,Production       ,Fully Meets,3,0
+10073,F,Two or more races,Married,68407,1.13,Production       ,Fully Meets,4,1
+10279,F,White,Married,61349,11.15,Production       ,Fully Meets,3,0
+10110,F,Asian,Single,105688,11.15,Software Engineering,Fully Meets,5,0
+10053,F,White,Married,54132,13.6,Production       ,Fully Meets,4,0
+10076,F,Black or African American,Single,55315,9.76,Production       ,Fully Meets,5,0
+10145,F,Black or African American,Married,62810,11.99,Production       ,Fully Meets,3,0
+10202,M ,Two or more races,Married,63291,8.49,Sales,Fully Meets,4,0
+10128,F,Black or African American,Single,62659,4.61,Production       ,Fully Meets,4,1
+10068,F,White,Single,55688,9.76,Production       ,Fully Meets,4,0
+10116,M ,Hispanic,Single,83667,12.38,Production       ,Fully Meets,3,0
+10298,M ,White,Single,55800,3.06,Production       ,PIP,2,1
+10213,M ,White,Married,58207,13.16,Production       ,Fully Meets,3,0
+10288,M ,Black or African American,Married,157000,12.88,IT/IS,Needs Improvement,3,0
+10025,F,Black or African American,Single,72460,11.64,Production       ,Exceeds,3,0
+10223,M ,Black or African American,Single,72106,12.99,Production       ,Fully Meets,4,0
+10151,F,White,Married,52599,9.88,IT/IS,Fully Meets,3,0
+10254,F,White,Divorced,63430,11.76,Production       ,Fully Meets,4,0
+10120,M ,Black or African American,Separated,74417,11.64,Production       ,Fully Meets,5,0
+10216,M ,Asian,Single,57575,11.49,Production       ,Fully Meets,4,0
+10079,M ,Asian,Single,87921,7.89,IT/IS,Fully Meets,3,0
+10215,M ,Black or African American,Single,50470,2.52,Production       ,Fully Meets,3,1
+10185,M ,White,Married,46664,3.15,Production       ,Fully Meets,3,1
+10063,M ,White,Married,48495,10.65,Production       ,Fully Meets,5,0
+10037,F,Black or African American,Separated,52984,11.76,Production       ,Exceeds,3,0
+10042,F,Two or more races,Single,63695,11.49,Sales,Fully Meets,5,0
+10206,F,White,Single,62061,11.49,Production       ,Fully Meets,5,0
+10104,F,White,Single,66738,10.15,Production       ,Fully Meets,5,0
+10303,F,Two or more races,Single,52674,4.09,Production       ,PIP,2,1
+10078,F,Asian,Married,71966,1.27,Production       ,Fully Meets,3,1
+10121,F,White,Single,63051,11.26,Sales,Fully Meets,3,0
+10021,M ,White,Married,47414,11.26,Production       ,Exceeds,3,0
+10281,M ,Black or African American,Single,53060,10.88,Production       ,Needs Improvement,3,0
+10041,M ,White,Single,68829,9.99,Sales,Fully Meets,5,0
+10148,F,White,Married,63515,2.93,Production       ,Fully Meets,4,1
+10005,M ,Black or African American,Single,108987,3.84,Software Engineering,Exceeds,5,1
+10259,M ,White,Married,93093,1.42,IT/IS,Fully Meets,4,1
+10286,M ,Black or African American,Single,53564,6.97,Production       ,Needs Improvement,5,1
+10297,F,Asian,Married,60270,4.2,Production       ,Needs Improvement,5,1
+10171,F,White,Single,45998,4.45,Production       ,Fully Meets,4,1
+10032,F,White,Married,57954,1.73,Production       ,Exceeds,5,1
+10130,F,White,Married,74669,5.57,Production       ,Fully Meets,5,1
+10217,F,Asian,Married,74226,12.76,Production       ,Fully Meets,3,0
+10016,F,Black or African American,Married,93554,10.15,IT/IS,Exceeds,5,0
+10050,M ,Asian,Married,64724,1.41,Production       ,Fully Meets,3,1
+10164,M ,White,Single,47001,17.17,Production       ,Fully Meets,3,0
+10124,F,Black or African American,Married,61844,12.99,Sales,Fully Meets,5,0
+10187,F,Asian,Divorced,46799,7.06,Production       ,Fully Meets,4,1
+10225,M ,White,Single,59472,10.99,Production       ,Fully Meets,3,0
+10262,F,White,Divorced,46430,0.73,Production       ,Fully Meets,5,1
+10131,M ,Black or African American,Married,83363,4.48,Software Engineering,Fully Meets,4,1
+10239,F,Black or African American,Married,95920,8.25,IT/IS,Fully Meets,4,0
+10152,M ,White,Divorced,61729,6.53,Production       ,Fully Meets,5,1
+10140,M ,White,Married,61809,10.65,Sales,Fully Meets,3,0
+10058,M ,White,Divorced,45115,4.67,Production       ,Fully Meets,4,1
+10011,F,Asian,Married,46738,13.1,Production       ,Exceeds,5,0
+10230,F,Black or African American,Divorced,64971,0.07,Production       ,Fully Meets,4,1
+10224,M ,White,Married,55578,0.6,Production       ,Fully Meets,5,1
+10047,M ,Black or African American,Married,50428,5.05,Production       ,Fully Meets,3,1
+10285,F,White,Married,61422,5.35,Production       ,Needs Improvement,3,1
+10020,M ,White,Widowed,63353,11.49,Production       ,Exceeds,5,0
+10162,F,White,Married,89883,9.88,IT/IS,Fully Meets,5,0
+10149,F,White,Single,120000,3.85,IT/IS,Fully Meets,3,1
+10086,F,Black or African American,Single,150290,7.99,IT/IS,Fully Meets,3,0
+10054,F,White,Separated,60627,10.99,Production       ,Fully Meets,4,0
+10065,M ,White,Single,53180,7.36,Production       ,Fully Meets,5,1
+10198,M ,White,Single,140920,11.95,IT/IS,Fully Meets,5,0
+10222,M ,Black or African American,Divorced,148999,3.82,IT/IS,Fully Meets,4,1
+10126,F,White,Married,86214,12.16,Software Engineering,Fully Meets,3,0
+10295,F,Black or African American,Single,47750,8.5,Production       ,Needs Improvement,4,0
+10260,M ,White,Single,46428,9.57,Production       ,Fully Meets,5,1
+10233,M ,White,Married,57975,14.35,Production       ,Fully Meets,3,0
+10229,M ,Black or African American,Divorced,88527,0.82,IT/IS,Fully Meets,3,1
+10169,F,Black or African American,Married,56147,10.26,Production       ,Fully Meets,3,0
+10071,F,Asian,Single,50923,11.26,Production       ,Fully Meets,5,0
+10179,F,White,Married,50750,10.26,IT/IS,Fully Meets,3,0
+10091,F,White,Married,52087,11.38,Production       ,Fully Meets,4,0
+10178,M ,White,Married,87826,9.99,IT/IS,Fully Meets,3,0
+10039,F,White,Single,51920,9.68,Admin Offices,Fully Meets,3,0
+10095,F,White,Single,63878,5.45,Production       ,Fully Meets,4,1
+10027,M ,White,Single,60656,10.26,Production       ,Exceeds,3,0
+10291,M ,Black or African American,Divorced,72992,10.63,Sales,Needs Improvement,4,0
+10153,F,Black or African American,Married,55000,2.0,Admin Offices,Fully Meets,4,1
+10157,F,White,Single,58939,11.15,Production       ,Fully Meets,3,0
+10119,F,Black or African American,Married,66593,13.57,IT/IS,Fully Meets,3,0
+10180,M ,Asian,Married,87565,8.51,IT/IS,Fully Meets,4,0
+10302,F,White,Married,64021,12.87,Production       ,PIP,2,0
+10090,F,White,Married,65714,12.25,Production       ,Fully Meets,5,0
+10030,F,White,Divorced,62425,2.13,Production       ,Exceeds,4,1
+10278,F,Two or more races,Divorced,47961,13.98,Production       ,Fully Meets,4,0
+10307,M ,White,Married,58273,10.65,Sales,PIP,2,0
+10147,M ,White,Single,63003,10.26,Admin Offices,Fully Meets,5,0
+10266,M ,Asian,Married,61355,10.88,Production       ,Fully Meets,3,0
+10241,F,Black or African American,Married,60120,14.27,Sales,Fully Meets,4,0
+10158,F,Black or African American,Married,63682,15.99,Production       ,Fully Meets,4,0
+10117,M ,White,Married,63025,9.99,Production       ,Fully Meets,5,0
+10209,F,Asian,Single,59238,12.64,Production       ,Fully Meets,5,0
+10024,M ,White,Single,92989,10.49,Software Engineering,Exceeds,5,0
+10173,M ,White,Married,90100,7.7,IT/IS,Fully Meets,3,0
+10221,F,Black or African American,Married,60754,3.93,Production       ,Fully Meets,5,1
+10146,F,White,Married,72202,6.15,Production       ,Fully Meets,3,1
+10161,F,Black or African American,Single,58370,10.26,Sales,Fully Meets,3,0
+10141,F,White,Single,48413,5.18,Production       ,Fully Meets,4,1
+10268,M ,White,Widowed,67176,3.18,Production       ,Fully Meets,4,1
+10123,F,Black or African American,Divorced,56339,11.87,Production       ,Fully Meets,5,0
+10013,M ,White,Separated,64397,18.99,Sales,Exceeds,3,0
+10287,F,White,Single,63025,10.88,Production       ,Needs Improvement,5,0
+10044,M ,White,Married,75281,1.1,IT/IS,Fully Meets,3,1
+10102,M ,Black or African American,Single,100416,5.16,Software Engineering,Fully Meets,3,1
+10270,F,White,Single,74813,3.48,Production       ,Fully Meets,3,1
+10045,M ,White,Married,76029,9.76,IT/IS,Fully Meets,4,0
+10205,F,Two or more races,Married,57859,13.5,Sales,Fully Meets,3,0
+10014,M ,White,Divorced,58523,3.48,Production       ,Exceeds,5,1
+10144,M ,White,Divorced,88976,13.43,Production       ,Fully Meets,3,0
+10253,M ,Asian,Single,55875,12.83,Sales,Fully Meets,4,0
+10118,M ,Black or African American,Married,113999,2.02,IT/IS,Fully Meets,3,1
+10022,F,White,Married,49773,4.37,Production       ,Exceeds,5,1
+10183,F,White,Single,62068,9.5,Production       ,Fully Meets,3,0
+10190,M ,Black or African American,Single,66541,10.38,Production       ,Fully Meets,5,0
+10274,F,Black or African American,Married,80512,0.27,Production       ,Fully Meets,3,1
+10293,F,White,Single,50274,3.05,Production       ,Needs Improvement,3,1
+10172,M ,Asian,Single,84903,7.88,IT/IS,Fully Meets,4,0
+10127,F,Asian,Widowed,107226,9.76,IT/IS,Fully Meets,4,0
+10072,M ,White,Single,58371,3.35,Production       ,Fully Meets,5,1
+10048,M ,White,Married,55140,4.32,Production       ,Fully Meets,3,1
+10204,F,White,Divorced,58062,1.34,Production       ,Fully Meets,5,1
+10264,F,Black or African American,Single,59728,3.47,Production       ,Fully Meets,4,1
+10033,M ,White,Single,70507,3.12,Production       ,Exceeds,3,1
+10174,F,White,Single,60446,10.26,Production       ,Fully Meets,4,0
+10135,M ,White,Single,65893,10.49,Production       ,Fully Meets,4,0
+10301,F,Asian,Single,48513,7.08,Production       ,PIP,2,1
+10010,F,White,Single,220450,14.74,IT/IS,Exceeds,5,0
+10043,F,White,Single,89292,9.76,IT/IS,Fully Meets,3,0
+10271,F,Asian,Widowed,45046,10.26,Production       ,Fully Meets,5,0
