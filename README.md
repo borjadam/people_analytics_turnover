@@ -1,4 +1,4 @@
-# Employee Turnover Analysis: Insights to Drive Retention
+# People Analytics | Employee Turnover Analysis: Insights to Drive Retention
 
 ## 1. Understand the Dataset
 
